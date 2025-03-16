@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Alarma</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="nav_drawer_open">Abrir menú lateral</string>
+    <string name="nav_drawer_close">Cerrar menú lateral</string>
+    
+    <!-- Settings -->
+    <string name="settings">Ajustes</string>
+    <string name="theme">Tema</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="light_mode">Modo claro</string>
+    <string name="language">Idioma</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="clock">Reloj</string>
+    <string name="alarm">Alarma</string>
+    <string name="chronometer">Cronómetro</string>
+    <string name="timer">Temporizador</string>
+    
+    <!-- Common -->
+    <string name="start">Iniciar</string>
+    <string name="pause">Pausar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="lap">Vuelta</string>
+    <string name="lap_format">Vuelta %d: %s</string>
+    
+    <!-- Timer -->
+    <string name="timer_complete">Temporizador Completado</string>
+    <string name="timer_message">¡Tu temporizador ha finalizado!</string>
+    <string name="silence">Silenciar</string>
+    
+    <!-- Alarm -->
+    <string name="new_alarm">Nueva Alarma</string>
+    <string name="edit_alarm">Editar Alarma</string>
+    <string name="delete_alarm">Eliminar Alarma</string>
+    <string name="save">Guardar</string>
+    <string name="alarm_title">Título de la Alarma</string>
+    <string name="vibration">Vibración</string>
+    <string name="repeat">Repetir</string>
+    <string name="sound">Sonido</string>
+    <string name="once">Una vez</string>
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+    <string name="monday_short">L</string>
+    <string name="tuesday_short">M</string>
+    <string name="wednesday_short">X</string>
+    <string name="thursday_short">J</string>
+    <string name="friday_short">V</string>
+    <string name="saturday_short">S</string>
+    <string name="sunday_short">D</string>
+    <string name="delete_confirmation">¿Estás seguro de que quieres eliminar esta alarma?</string>
+    <string name="default_sound">Sonido predeterminado</string>
+    <string name="alarm_notification_title">¡Es hora de tu alarma!</string>
+    <string name="alarm_notification_message">%s - Es hora de despertar</string>
+    <string name="alarms">Alarmas</string>
+    <string name="alarm_notifications">Notificaciones de alarmas</string>
+    <string name="timer_notifications">Notificaciones del temporizador</string>
+    <string name="alarm_name">Nombre de la alarma</string>
+    <string name="weekdays">Lunes a Viernes</string>
+    <string name="everyday">Todos los días</string>
+    <string name="alarm_time">Hora de la alarma</string>
+    <string name="no_alarms">No hay alarmas configuradas</string>
+    <string name="add_alarm">Añadir alarma</string>
+
+    <!-- Clock -->
+    <string name="long_press_hint">Mantén pulsado para abrir los ajustes de hora del sistema</string>
+    <string name="local_time">Hora Local</string>
+    <string name="world_clock">Reloj Mundial</string>
+    <string name="new_york">Nueva York</string>
+    <string name="london">Londres</string>
+    <string name="tokyo">Tokio</string>
+    <string name="sydney">Sídney</string>
+    
+    <!-- Dialog -->
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="timezone_management">Gestión de Zonas Horarias</string>
+    <string name="add_timezone_question">¿Deseas añadir esta zona horaria a favoritos?</string>
+    <string name="remove_timezone_question">¿Deseas eliminar esta zona horaria de favoritos?</string>
+    <string name="timezone_added">Zona horaria añadida a favoritos</string>
+    <string name="timezone_removed">Zona horaria eliminada de favoritos</string>
+    <string name="open_time_settings_question">¿Deseas abrir los ajustes de hora del sistema?</string>
+    <string name="cannot_open_settings">No se pueden abrir los ajustes de hora</string>
+</resources> 
